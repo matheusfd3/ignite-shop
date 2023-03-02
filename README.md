@@ -34,6 +34,14 @@ Instale as dependências
   npm install
 ```
 
+Você vai precisar configurar [Variáveis de ambiente](https://nextjs.org/docs/basic-features/environment-variables), criar e configurar uma conta [Stripe](https://stripe.com/br) com seus produtos e preços.
+
+```text
+  NEXT_URL=http://localhost:3000
+  STRIPE_PUBLIC_KEY=... // Stripe vai fornecer essa chave.
+  STRIPE_SECRET_KEY=... // Stripe vai fornecer essa chave
+```
+
 Inicie o servidor
 
 ```bash
