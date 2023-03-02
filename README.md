@@ -51,13 +51,13 @@ Inicie o servidor
 ## Screenshots
 
 ### Home
-![App Screenshot](https://github.com/matheusfd3/github-blog/blob/main/.github/home.png)
+![App Screenshot](https://github.com/matheusfd3/ignite-shop/blob/main/.github/home.png)
 
 ### Product
-![App Screenshot](https://github.com/matheusfd3/github-blog/blob/main/.github/product.png)
+![App Screenshot](https://github.com/matheusfd3/ignite-shop/blob/main/.github/product.png)
 
 ### Stripe
-![App Screenshot](https://github.com/matheusfd3/github-blog/blob/main/.github/stripe.png)
+![App Screenshot](https://github.com/matheusfd3/ignite-shop/blob/main/.github/stripe.png)
 
 ### Success
-![App Screenshot](https://github.com/matheusfd3/github-blog/blob/main/.github/success.png)
+![App Screenshot](https://github.com/matheusfd3/ignite-shop/blob/main/.github/success.png)
