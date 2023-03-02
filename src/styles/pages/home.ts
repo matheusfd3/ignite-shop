@@ -8,10 +8,9 @@ export const HomeContainer = styled("main", {
   // minHeight: 656, para o monitor Diego Rocketseat
 })
 
-export const Product = styled("a", {
+export const Product = styled("div", {
   background: 'linear-gradient(188deg, #1ea483 0%, #7465d4 100%)',
   borderRadius: 8,
-  // padding: '0.25rem',
   cursor: 'pointer',
   position: 'relative',
   overflow: 'hidden',
@@ -44,7 +43,8 @@ export const Product = styled("a", {
     transition: 'all 0.2s ease-in-out',
 
     strong: {
-      fontSize: '$lg'
+      fontSize: '$lg',
+      color: '$gray100',
     },
 
     span: {
